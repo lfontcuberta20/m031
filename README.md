@@ -1,5 +1,5 @@
-# DAW - MP032 - Programació (segon curs)
+# DAW - MP031 - Programació (primer curs)
 
-4. UF4 - Programació Orientada a Objectes
-5. UF5 - Llibreries de classes fonamentals
-6. UF6 - Introducció a la Persistència en Bases de Dades
+1. UF1 - Programació estructurada
+2. UF2 - Disseny modular
+3. UF3 - Fonaments de gestió de fitxers
